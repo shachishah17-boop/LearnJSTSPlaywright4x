@@ -1,0 +1,22 @@
+# Maven
+target/
+*.class
+
+# IDE & Editor
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+
+# Logs & Test reports
+test-output/
+surefire-reports/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
